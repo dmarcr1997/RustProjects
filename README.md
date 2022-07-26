@@ -9,7 +9,7 @@ This is a directory of [Rust][] projects
 
 ## Projects
 
-<details><summary> Guessing Game </summary><br/>
+<details><summary><a href="./guessing_game">Guessing Game</a></summary><br/>
 
 - Dependencies
     - Rand
