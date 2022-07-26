@@ -9,7 +9,13 @@ This is a directory of [Rust][] projects
 
 ## Projects
 
- - [Guessing Game][]
+<details><summary> Guessing Game </summary><br/>
+
+- Dependencies
+    - Rand
+    - Rust std
+
+</details>
 
 ## Build instructions
 
