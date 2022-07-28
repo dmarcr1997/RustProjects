@@ -16,7 +16,12 @@ This is a directory of [Rust][] projects
     - Rust std
 
 </details>
+<details><summary><a href="./structs_example">Structs Example</a></summary><br/>
 
+- Summary
+    - Example of struct creation, usage, and debug logging
+
+</details>
 ## Build instructions
 
 ```sh
