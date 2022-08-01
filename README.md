@@ -22,6 +22,14 @@ This is a directory of [Rust][] projects
     - Example of struct creation, usage, and debug logging
 
 </details>
+<details><summary><a href="./RustyPipeViewer">Rusty Pipe Viewer</a></summary><br/>
+
+- Dependencies
+    - crossterm
+    - crossbeam
+    - Rust std
+
+</details>
 ## Build instructions
 
 ```sh

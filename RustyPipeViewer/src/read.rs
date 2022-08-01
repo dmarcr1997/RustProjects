@@ -1,3 +1,4 @@
+//! The read module contains the read from input/file stream loop
 use crate::CHUNK_SIZE;
 use crossbeam::channel::Sender;
 use std::fs::File;

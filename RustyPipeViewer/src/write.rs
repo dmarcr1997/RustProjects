@@ -1,3 +1,5 @@
+//! The write module contains the write to io/file loop
+
 use crossbeam::channel::Receiver;
 use std::fs::File;
 use std::io::{self, BufWriter, ErrorKind, Result, Write};

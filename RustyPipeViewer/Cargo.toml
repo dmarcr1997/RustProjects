@@ -2,7 +2,13 @@
 name = "rusty_pipe_viewer"
 version = "0.1.0"
 edition = "2021"
-
+description = "Educational version of the pv utility"
+homepage = "https://github.com/dmarcr1997/RustProjects/tree/main/RustyPipeViewer"
+repo = "https://github.com/dmarcr1997/RustProjects/tree/main/RustyPipeViewer"
+readme = "README.md"
+keywords = ["educational", "systems"]
+categories = ["command-line-utilities"]
+license = "MIT"
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
