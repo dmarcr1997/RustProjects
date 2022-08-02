@@ -27,6 +27,7 @@ This is a directory of [Rust][] projects
 - Dependencies
     - crossterm
     - crossbeam
+    - clap
     - Rust std
 
 </details>

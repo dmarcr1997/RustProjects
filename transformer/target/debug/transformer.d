@@ -1,0 +1,1 @@
+C:\Users\dmarc\rustProj\RustProjects\transformer\target\debug\transformer.exe: C:\Users\dmarc\rustProj\RustProjects\transformer\src\lib.rs C:\Users\dmarc\rustProj\RustProjects\transformer\src\main.rs C:\Users\dmarc\rustProj\RustProjects\transformer\src\toml_dyn.rs C:\Users\dmarc\rustProj\RustProjects\transformer\src\toml_stat.rs

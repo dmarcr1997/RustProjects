@@ -7,6 +7,7 @@ This is an educational version of the pv command line applcation
 - [Cargo][]
 - [crossterm][]
 - [crossbeam][]
+- [clap][]
 
 ## Build/Run instructions
 
@@ -39,3 +40,4 @@ This project is distributed under the terms of the MIT license
 [Cargo]: https://crates.io/
 [crossterm]: https://docs.rs/crossterm/latest/crossterm/
 [crossbeam]: https://docs.rs/crossbeam/latest/crossbeam/
+[clap]: https://docs.rs/clap/latest/clap/
