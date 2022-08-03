@@ -31,6 +31,19 @@ This is a directory of [Rust][] projects
     - Rust std
 
 </details>
+<details><summary><a href="./GrepProject">Grep Project</a></summary><br/>
+
+- Dependencies
+    - Rust std
+- Running project
+    - cargo run query file > output.txt
+    - Example 
+        - cargo run to ./data/poem.txt > output.txt
+    - use env variable IGNORE_CASE=1 to ignore case in searh
+
+</details>
+
+----------------------------------------------------------------
 ## Build instructions
 
 ```sh
